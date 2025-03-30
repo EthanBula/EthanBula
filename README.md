@@ -42,11 +42,8 @@ I am a mechanical engineer with experience in reliability-centered maintenance (
 - **iTEP Academic-Plus (C1)** – Score: 4.6 (April 2022)
 
 ### 📫 Contact Me
-- 📧 ethanbula@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ethanbp)
 
 ---
 Thanks for visiting my profile! 🚀
 
----
-Thanks for visiting my profile! 🚀
