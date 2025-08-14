@@ -3,10 +3,7 @@
 ## 🔧 Mechanical Engineer | Asset Management | Data Analytics
 
 ### 📌 About Me
-I am a mechanical engineer with experience in reliability-centered maintenance (RCM) and failure modes and effects analysis (FMEA). I have advanced skills in data analysis applied to asset management. Currently, I am pursuing a postgraduate in Operations Management, where I have strengthened my knowledge in continuous improvement methodologies such as Lean Six Sigma and root cause analysis (RCA).
-
-On my GitHub, I upload the tools I have developed during my postgraduate to enhance asset management and operational efficiency.
-I am a mechanical engineer with experience in reliability-centered maintenance (RCM) and failure modes and effects analysis (FMEA). I have advanced skills in data analysis applied to asset management. Currently, I am pursuing a specialization in Operations Management, where I have strengthened my knowledge in continuous improvement methodologies such as Lean Six Sigma and root cause analysis (RCA).
+I am a mechanical engineer with experience in reliability-centered maintenance (RCM) and failure modes and effects analysis (FMEA). I have advanced skills in data analysis applied to asset management. Currently, I am pursuing a postgraduate in Operations Management, where I have strengthened my knowledge in continuous improvement methodologies such as Lean Six Sigma and root cause analysis (RCA). On my GitHub, I upload the tools I have developed during my postgraduate to enhance asset management and operational efficiency.
 
 ### 💼 Professional Experience
 - **Mechanical Maintenance Engineer** at Termoflores (January 2024 – July 2024)
